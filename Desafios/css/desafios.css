@@ -1,0 +1,19 @@
+
+html,body{
+    box-sizing: 0;
+}
+
+h2{
+    margin-left: 33%;
+}
+
+table{
+    width: 500px;
+    border: solid 1px;
+    margin-left: 30%;
+}
+
+td,th{
+    border: solid 1px;
+}
+
